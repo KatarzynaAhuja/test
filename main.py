@@ -6,6 +6,7 @@
 
 def print_hi(name):
     pass
+print"nie"
 
 
 # Press the green button in the gutter to run the script.
